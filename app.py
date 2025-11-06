@@ -6,4 +6,5 @@ def show_users():
 
 
 
-show_users()
+if __name__ == "__main__":
+    show_users()
